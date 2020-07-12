@@ -8,13 +8,13 @@ I enjoy creating tools, systems and processes to improve people's lives. Custome
 said impact. I don't like pigeonholing myself with regards to languages, technologies, and the like. In the past, I've worked 
 extensively with:
 
-  - Java (for 10-ish years, and rather wouldn't again)
-  - C#
-  - PowerShell
-  - Ruby (Rails)
-  - SQL (Postgres) 
-  - JavaScript (React, React Native) 
-  - and others
+  - 🙅‍♂️ Java (for 10-ish years, and rather wouldn't again)
+  - 🤷 C#
+  - 💪 PowerShell
+  - :monorail: Ruby (Rails)
+  - 🐘 SQL (Postgres) 
+  - ❤️ JavaScript (React, React Native) 
+  - and others; check out my [resume](https://vplata.dev/cv)
   
 But what really moves me is helping teams, people, and organizations grow and improve with a data-and-transparency-driven approach.
 
@@ -33,6 +33,7 @@ Most of my work time is dedicated to:
 #### Contact
 
 I'm convinced that software and technology's impact continues to be a net possitive in the world. But we can always do more, and do better. 
+
 I'd be more than happy to chat about ways in which you think we could make the world a better place with them: either just to chat, as an 
 advisor, or in a pro-bono kind of thing (recruiters: I'm not interested in another full-time-ish opportunity, unless it's an **extremely** 
 good deal for both of us and in all dimensions).
