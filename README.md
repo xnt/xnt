@@ -35,8 +35,8 @@ Most of my work time is dedicated to:
 I'm convinced that software and technology's impact continues to be a net possitive in the world. But we can always do more, and do better. 
 
 I'd be more than happy to chat about ways in which you think we could make the world a better place with them: either just to chat, as an 
-advisor, or in a pro-bono kind of thing (recruiters: I'm not interested in another full-time-ish opportunity, unless it's an **extremely** 
-good deal for both of us and in all dimensions).
+advisor, or in a pro-bono kind of thing (dear recruiters: I'm not interested in another full-time-ish opportunity, unless it's an **extremely** 
+good deal for both of us and in all dimensions, and even then moving to the States would be a hard stop: no).
 
 Reach out via:
 
