@@ -13,7 +13,7 @@ extensively with:
   - 💪 PowerShell
   - :monorail: Ruby (Rails)
   - 🐘 SQL (Postgres) 
-  - ❤️ JavaScript (React, React Native) 
+  - ❤️ JavaScript & TypeScript (React, React Native) 
   - and others; check out my [resume](https://vplata.dev/cv)
   
 But what really moves me is helping teams, people, and organizations grow and improve with a data-and-transparency-driven approach.
@@ -22,9 +22,8 @@ But what really moves me is helping teams, people, and organizations grow and im
 
 Most of my work time is dedicated to:
 
-  - having fun at [hims 🌵](https://forhims.com) and [hers 💁‍♀](https://forhers.com) as an engineering lead, primarily with the frontend 
-  of our medical records system
-  - helping [Terminal 🌎](https://terminal.io) scale and strengthen their footprint in the Mexican and Canadian engineering communities
+  - having fun at [Shop by Shopify 🛍](https://shop.app), particularly with the frontend of [Shop Pay 💳](https://www.shopify.ca/blog/shop-pay-checkout)
+  - helping startups, like [Terminal 🌎](https://terminal.io) scale and strengthen their footprint in the Mexican and Canadian engineering communities
   - supporting spanish-speaking engineers as an advisor at [Devz](https://devz.mx), by organizing meetups, podcasts, and workshops to help 
   our members improve their skills and have a more powerful impact on the industry.
   - time-permitting, I also collaborate on independent projects at a high-level, or help with consulting services on remote engineering 
