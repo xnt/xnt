@@ -4,6 +4,8 @@ My name is Vicente Plata. Thank you for stopping by.
 
 #### Stats
 
+![Twitter Follow](https://img.shields.io/twitter/follow/xnt)
+
 ![xnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnt&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Work
@@ -28,8 +30,6 @@ Most of my work time is dedicated to:
 
   - having fun at [Shop by Shopify 🛍](https://shop.app), particularly with the [Shop Pay 💳](https://www.shopify.ca/blog/shop-pay-checkout) team
   - helping startups, like [Terminal 🌎](https://terminal.io) scale and strengthen their footprint in the Mexican and Canadian engineering communities
-  - supporting spanish-speaking engineers as an advisor at [Devz](https://devz.mx), by organizing meetups, podcasts, and workshops to help 
-  our members improve their skills and have a more powerful impact on the industry.
   - time-permitting, I also collaborate on independent projects at a high-level, or help with consulting services on remote engineering 
   and culture (which I did since way before it was ~COVID~ cool :smile:) .
 
