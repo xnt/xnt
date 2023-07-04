@@ -19,8 +19,8 @@ extensively with:
   - 💪 PowerShell
   - :monorail: Ruby (Rails)
   - 🐘 SQL (Postgres) 
-  - ❤️ JavaScript & TypeScript (React, React Native) 
-  - and others; check out my [resume](https://vplata.dev/cv)
+  - ❤️ JavaScript & TypeScript (React, React Native, Next) 
+  - and others; check out my [resume](https://linkedin.com/in/vrplata)
   
 But what really moves me is helping teams, people, and organizations grow and improve with a data-and-transparency-driven approach.
 
@@ -28,8 +28,8 @@ But what really moves me is helping teams, people, and organizations grow and im
 
 Most of my work time is dedicated to:
 
-  - having fun at [Shop by Shopify 🛍](https://shop.app), particularly with the [Shop Pay 💳](https://www.shopify.ca/blog/shop-pay-checkout) team
-  - helping startups, like [Terminal 🌎](https://terminal.io) scale and strengthen their footprint in the Mexican and Canadian engineering communities
+  - having fun at [Utopia Labs ⛩️](https://utopialabs.com), building tools that help organizations accelerate crypto payments 
+  - helping startups scale and strengthen their footprint in the Mexican and Canadian engineering communities
   - time-permitting, I also collaborate on independent projects at a high-level, or help with consulting services on remote engineering 
   and culture (which I did since way before it was ~COVID~ cool :smile:) .
 
@@ -46,6 +46,5 @@ Reach out via:
   - 🐦 twitter: https://twitter.com/xnt
   - 🕴 linkedin: https://www.linkedin.com/in/vrplata/
   - 📷 instagram: https://instagram.com/xnt87
-  - 🏡 homepage: https://vplata.dev
 
 Thank you, and have a nice day :sparkles:!
