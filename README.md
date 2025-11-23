@@ -28,7 +28,7 @@ But what really moves me is helping teams, people, and organizations grow and im
 
 Most of my work time is dedicated to:
 
-  - having fun and keeping you safe at [Pinterest ⛩️](https://pinterest.com), as a Staff Software Engineer in the Trust & Safety organization
+  - having fun and keeping you safe at [Pinterest 📌](https://pinterest.com), as a Staff Software Engineer in the Trust & Safety organization
   - training and teaching Grok how to code better through x.ai  
   - helping startups scale and strengthen their footprint in the Mexican and Canadian engineering communities
   - time-permitting, I also collaborate on independent projects at a high-level, or help with consulting services on remote engineering 
