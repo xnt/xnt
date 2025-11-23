@@ -28,7 +28,8 @@ But what really moves me is helping teams, people, and organizations grow and im
 
 Most of my work time is dedicated to:
 
-  - having fun at [Utopia Labs ⛩️](https://utopialabs.com), building tools that help organizations accelerate crypto payments 
+  - having fun and keeping you safe at [Pinterest ⛩️](https://pinterest.com), as a Staff Software Engineer in the Trust & Safety organization
+  - training and teaching Grok how to code better through x.ai  
   - helping startups scale and strengthen their footprint in the Mexican and Canadian engineering communities
   - time-permitting, I also collaborate on independent projects at a high-level, or help with consulting services on remote engineering 
   and culture (which I did since way before it was ~COVID~ cool :smile:) .
@@ -43,7 +44,7 @@ good deal for both of us and in all dimensions, and even then moving to the Stat
 
 Reach out via:
 
-  - 🐦 twitter: https://twitter.com/xnt
+  - 🐦 x: https://x.com/xnt
   - 🕴 linkedin: https://www.linkedin.com/in/vrplata/
   - 📷 instagram: https://instagram.com/xnt87
 
